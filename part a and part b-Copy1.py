@@ -157,7 +157,7 @@ else:
     print("No")
     
     output-
-    yes
+    Yes
     No
 
 
