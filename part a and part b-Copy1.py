@@ -65,6 +65,21 @@ while(choice<=7):
     break
 if not choice<=7:
     print("invalid input")
+    
+    output-
+
+select any one choice
+1.Addition
+2.Substraction
+3.Multiplication
+4.Division
+5.distance
+6.Speed
+7.Intrest
+6
+enter distance in km : 76
+enter time in hours : 5
+15.2
 
 
 # # Python Program to Calculate Area and Perimeter of Square,Rectangle,Rhombus,Parallelogram
@@ -89,6 +104,18 @@ b=int(input("enter b value : "))
 print(area(a,b))
 print(perimeter(a,b))
 
+output-
+enter a value : 45
+enter b value : 56
+area of square is  2025
+area of rectangle is  2520
+area of rhombus is  1260.0
+area of paralellogram is 2520
+perimeter of square is  180
+perimeter of rectangle is  202
+perimeter of rhombus is  180
+perimeter of paralellogram is 202
+
 
 # # Part-B ;Python Program to Print cube Sum of first n natural Numbers.
 
@@ -103,6 +130,9 @@ def cubesum(n):  #defining a function
 n=int(input("enter the value of n : "))   # reading the input from user
 k=cubesum(n)
 print("cube sum of n natural numbers is ",k)   # printing the result
+  output-
+enter the value of n : 5
+cube sum of n natural numbers is  225
 
 
 # # Python Program to Check if a given String is Palindrome or Not.
@@ -125,6 +155,10 @@ if ans1:
     print("yes")
 else:
     print("No")
+    
+    output-
+    yes
+    No
 
 
 # In[ ]:
